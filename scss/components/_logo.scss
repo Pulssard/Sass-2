@@ -1,0 +1,10 @@
+.logo {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+    padding: 2rem;
+    
+    &-img {
+        font-size: size(xl);
+        font-family: 'Josefin Sans', sans-serif;
+    }
+}
